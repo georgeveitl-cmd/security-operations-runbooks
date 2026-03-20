@@ -1,3 +1,9 @@
+## ⚠️ Usage Notice
+
+This repository contains proprietary security frameworks, SOPs, and runbooks developed by George Veitl.
+
+This content is for demonstration purposes only. 
+Unauthorized use, reproduction, or distribution is strictly prohibited.
 # Security Operations Runbooks
 
 ## Overview
@@ -96,3 +102,8 @@ This repository is part of a broader enterprise security program that includes a
 
 Central governance framework:
 https://github.com/georgeveitl-cmd/enterprise-security-governance
+## 📌 Note to Reviewers
+
+These runbooks are designed to reflect real-world enterprise security operations practices.
+
+If you'd like a walkthrough or discussion on implementation in a live environment, feel free to connect with me.

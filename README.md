@@ -1,3 +1,13 @@
+# Runbooks
+
+This repository contains enterprise-grade security operations and incident response runbooks.
+
+These runbooks are designed to support:
+- Security Operations Centers (SOC)
+- Incident Response Teams
+- Identity and Endpoint Security
+
+Aligned to enterprise best practices and frameworks.
 ## ⚠️ Usage Notice
 
 This repository contains proprietary security frameworks, SOPs, and runbooks developed by George Veitl.

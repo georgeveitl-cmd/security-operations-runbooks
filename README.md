@@ -1,3 +1,25 @@
+## ⚠️ Usage Notice
+
+This repository contains proprietary security frameworks, SOPs, and runbooks developed by George Veitl.
+
+This content is for demonstration purposes only. 
+Unauthorized use, reproduction, or distribution is strictly prohibited.
+## 📁 Runbook Library
+
+The following runbooks are included in this repository:
+
+### Identity & Access Incidents
+- Compromised Account Runbook  
+- Suspicious Login Runbook  
+
+### Phishing & Social Engineering
+- Phishing Response Runbook  
+
+### Endpoint Security
+- Malware / Endpoint Containment Runbook  
+
+### Operational Response
+- Service Outage & Incident Communication Runbook  
 # Runbooks
 
 This repository contains enterprise-grade security operations and incident response runbooks.
@@ -8,12 +30,25 @@ These runbooks are designed to support:
 - Identity and Endpoint Security
 
 Aligned to enterprise best practices and frameworks.
-## ⚠️ Usage Notice
+## 🧭 How to Use These Runbooks
 
-This repository contains proprietary security frameworks, SOPs, and runbooks developed by George Veitl.
+These runbooks are designed to support real-world security operations and incident response workflows.
 
-This content is for demonstration purposes only. 
-Unauthorized use, reproduction, or distribution is strictly prohibited.
+Each runbook includes:
+- Defined triggers and severity levels
+- Step-by-step response actions
+- Decision logic (IF/THEN scenarios)
+- Azure-aware guidance (Microsoft Entra ID, Defender, Sentinel)
+- Escalation criteria and post-incident actions
+
+### Intended Use:
+- Security Operations Center (SOC) teams
+- Incident Response teams
+- Cloud security and identity teams
+
+### Notes:
+These runbooks are intentionally written using generic, enterprise-aligned language to ensure they can be adapted across different environments while maintaining alignment with industry standards (NIST, ISO 27001, CIS).
+
 # Security Operations Runbooks
 
 ## Overview
